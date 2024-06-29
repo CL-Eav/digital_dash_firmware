@@ -3,3 +3,5 @@ Debug/
 Release/
 Spoof/
 EngineOnOnly/
+.settings/language.settings.xml
+/.settings
